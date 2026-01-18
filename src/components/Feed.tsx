@@ -88,18 +88,6 @@ const Feed: React.FC = () => {
       profileImage: "http://dl.dropboxusercontent.com/s/a11ge0yuheuafxt2p71qm/f3.webp?rlkey=d6nxoyrurv1bot8rw8m5r8z8i&st=kuir2m3j&dl=0"      
     },
     {
-      id: 4,
-      type: 'video',
-      fullUrl: 'https://console-typebot-minio.kjufc9.easypanel.host/api/v1/buckets/hot-mj/objects/download?preview=true&prefix=mis-9.mp4&version_id=null',
-      thumbnail: 'https://console-typebot-minio.kjufc9.easypanel.host/api/v1/buckets/hot-mj/objects/download?preview=true&prefix=mis-9-thumbnail.webp&version_id=null',
-      likes: 567,
-      comments: 89,
-      caption: " ",
-      profileName: "Aninha",
-      profileHandle: "@Aninha",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
-    },
-    {
       id: 7,
       type: 'video',
       fullUrl: 'https://console-typebot-minio.kjufc9.easypanel.host/api/v1/buckets/hot-mj/objects/download?preview=true&prefix=mis-10.mp4&version_id=null',
